@@ -1,0 +1,7 @@
+#1/bin/bash
+echo "idk what's the programm should be actualy is"
+echo "current directory is : "
+pwd
+echo "The user logged in is : "
+whoami
+
